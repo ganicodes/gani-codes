@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gani-codes
+- 👋 Hi, I’m Gani
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning JS and React, Python
+- 🌱 I’m currently learning React and DSA
 - 💞️ I’m looking to collaborate on front end Web Development project
 - 📫 How to reach me email: abdulgani.work@gmail.com
                  WhatsApp:http://wa.me/+919834588556
