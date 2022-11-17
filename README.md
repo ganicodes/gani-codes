@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gani</h1>
-<h3 align="center">I am currently working as an QA and planning to shift career in Front End Development.</h3>
+<h3 align="center">Currently working as a React Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gani-codes&label=Profile%20views&color=0e75b6&style=flat" alt="gani-codes" /> </p>
-
-- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://gani-codes.github.io/ePortfolio/](https://gani-codes.github.io/ePortfolio/)
 
